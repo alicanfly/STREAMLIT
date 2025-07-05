@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Hasee10/API_RESUME_READER.git
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+	mirror = true
